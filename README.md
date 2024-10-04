@@ -1,10 +1,6 @@
 <h1 align="center">Hi there, I'm Vikas Sahu! 👋</h1>
 <h3 align="center">A Passionate Developer, AI Enthusiast, and Machine Learning Explorer</h3>
 
-<p align="center">
-  <img src="YOUR_PROFILE_IMAGE_LINK" width="200px" alt="Vikas's Avatar" />
-</p>
-
 ---
 
 ### 🧑‍💻 About Me
@@ -34,38 +30,17 @@
 
 ---
 
-### 🚀 Projects
-
-Here are a few of my favorite projects:
-
-- **[TextEdits](YOUR_PROJECT_LINK)**: An advanced web-based tool for comprehensive paragraph editing and text analysis.
-  - **Tech Stack:** HTML, CSS, JavaScript, Bootstrap, ReactJS
-
-- **[ClothShop](YOUR_PROJECT_LINK)**: A management system for efficiently managing operations in a cloth shop.
-  - **Tech Stack:** Python, JSON
-
-- **[Sentiment Analysis using Deep Learning](YOUR_PROJECT_LINK)**: A sentiment analysis classifier tool using Recurrent Neural Networks (RNN) for accurate sentiment classification.
-  - **Tech Stack:** Python, Numpy, Pandas, TensorFlow, Keras, NLTK
-
----
-
 ### 📫 How to Reach Me
 
 - 📧 Email: 2003vikas0906@gmail.com
 - LinkedIn: [Vikas's Profile](https://www.linkedin.com/in/vikassahuofficial/)
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LeetCode: [@yourusername](https://leetcode.com/yourusername)
-
----
-
-### 🏆 Accomplishments
-- Successfully transitioned my branch from **Electronics and Communication (ECE)** to **Computer Science Engineering (CSE)** at IIITDM Kurnool.
-- Cleared **JEE Main**, **JEE Advanced**, and **MHT-CET** engineering entrance exams through self-study.
+- GitHub: [@vikassahu1](https://github.com/vikassahu1/)
+- LeetCode: [@2003vikas0906](https://leetcode.com/u/2003vikas0906/)
 
 ---
 
 <p align="center">
-  <img src="YOUR_BANNER_IMAGE_LINK" width="100%" alt="Banner" />
+  <img src="" width="100%" alt="Banner" />
 </p>
 
 ---
