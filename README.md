@@ -5,8 +5,7 @@
 
 ### 🧑‍💻 About Me
 - 🎓 I'm a **Computer Science Engineering student** with a keen interest in **AI**, **Web Development**, and **Deep Learning**.
-- 💼 I’m passionate about utilizing my skills in software development to deliver innovative solutions and address complex challenges.
-- 💡 With a strong foundation in coding, I have solved **450+ LeetCode problems** and have a **1400+ CodeChef rating**.
+- 💼 Passionate about utilizing my skills in software development to deliver innovative solutions and address complex challenges.
 - 🔭 Actively looking for opportunities to contribute to **open-source projects** and collaborate on **AI/web development ventures**.
 - 🌱 Currently exploring **Generative AI**, **Large Language Models (LLMs)**, and deep learning techniques to enhance my expertise.
 
