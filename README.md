@@ -1,10 +1,10 @@
 <h1 align="center">Hi there, I'm Vikas Sahu! 👋</h1>
-<h3 align="center">A Passionate Developer, AI Enthusiast, and Machine Learning Explorer</h3>
+<h3 align="center">A Passionate Developer, AI Enthusiast, and Deep Learning Explorer</h3>
 
 ---
 
 ### 🧑‍💻 About Me
-- 🎓 I'm a **Computer Science Engineering student** (3rd Year) with a keen interest in **AI**, **Web Development**, and **Deep Learning**.
+- 🎓 I'm a **Computer Science Engineering student** with a keen interest in **AI**, **Web Development**, and **Deep Learning**.
 - 💼 I’m passionate about utilizing my skills in software development to deliver innovative solutions and address complex challenges.
 - 💡 With a strong foundation in coding, I have solved **450+ LeetCode problems** and have a **1400+ CodeChef rating**.
 - 🔭 Actively looking for opportunities to contribute to **open-source projects** and collaborate on **AI/web development ventures**.
@@ -34,14 +34,7 @@
 
 - 📧 Email: 2003vikas0906@gmail.com
 - LinkedIn: [Vikas's Profile](https://www.linkedin.com/in/vikassahuofficial/)
-- GitHub: [@vikassahu1](https://github.com/vikassahu1/)
 - LeetCode: [@2003vikas0906](https://leetcode.com/u/2003vikas0906/)
-
----
-
-<p align="center">
-  <img src="" width="100%" alt="Banner" />
-</p>
 
 ---
 
