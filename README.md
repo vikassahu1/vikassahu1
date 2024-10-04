@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Vikas Sahu! 👋</h1>
+<h1 align="center">Hello, I'm Vikas Sahu! 👋</h1>
 <h3 align="center">A Passionate Developer, AI Enthusiast, and Deep Learning Explorer</h3>
 
 ---
