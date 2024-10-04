@@ -30,11 +30,3 @@
 
 ---
 
-### 📫 How to Reach Me
-
-- 📧 Email: 2003vikas0906@gmail.com
-- LinkedIn: [Vikas's Profile](https://www.linkedin.com/in/vikassahuofficial/)
-- LeetCode: [@2003vikas0906](https://leetcode.com/u/2003vikas0906/)
-
----
-
